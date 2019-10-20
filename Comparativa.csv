@@ -1,7 +1,4 @@
-﻿ID,Herramienta,Licencias,Curva de Aprendizaje,Compatibilidades,Integración con otras herramientas,Soporte,Comunidades existentes,Actualizaciones,Reportes y Estadísticas,Sitio Web
+ID,Herramienta,Licencias,Curva de Aprendizaje,Compatibilidades,Integración con otras herramientas,Soporte,Comunidades existentes,Actualizaciones,Reportes y Estadísticas,Sitio Web
 1,Tortoise SVN,10,10,10,10,4,2,3,8,8
 2,GitLab,7,4,10,7,7,9,8,9,10
 3,GitHub,7,4,10,7,9,7,9,7,10
-
- player,season,team,goals_z,xg_z,crosses_z,boxtouches_z,passes_z,progpasses_z,takeons_z,progruns_z,tackles_z,interceptions_z,clearances_z,blocks_z,aerials_z,fouls_z,fouled_z,nsxg_z
-Cristian Pavón,2018,Argentina,-0.42,-0.55,0.08,-0.24,-0.61,-0.72,-0.05,0.15,0.3,-0.79,-0.8,-0.45,-0.23,-0.38,-0.91,-0.58
